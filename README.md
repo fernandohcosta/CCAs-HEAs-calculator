@@ -2,7 +2,7 @@
 Author: Fernando Henrique da Costa 
 fernando.henriquecosta@yahoo.com.br
 
-This code calculates some CCAs/HEAs parameters.
+This code calculates some CCAs/HEAs parameters:
     - Atomic size difference
     - Mixing enthalpy
     - Mixing entropy
