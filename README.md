@@ -3,11 +3,11 @@ Author: Fernando Henrique da Costa
 fernando.henriquecosta@yahoo.com.br
 
 This code calculates some CCAs/HEAs parameters:
-    - Atomic size difference
-    - Mixing enthalpy
-    - Mixing entropy
-    - Valence electron concentration (VEC)
-    - Electronegativity difference
+- Atomic size difference
+- Mixing enthalpy
+- Mixing entropy
+- Valence electron concentration (VEC)
+- Electronegativity difference
 
 
 
